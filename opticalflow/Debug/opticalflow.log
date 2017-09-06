@@ -1,0 +1,25 @@
+﻿生成启动时间为 2014/12/28 0:25:48。
+     1>项目“c:\Users\administrator.win7u-20140508c\documents\visual studio 2010\Projects\opticalflow\opticalflow\opticalflow.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“c:\users\administrator.win7u-20140508c\documents\visual studio 2010\Projects\opticalflow\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\opticalflow.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt opticalflow.cpp stdafx.cpp
+         stdafx.cpp
+         opticalflow.cpp
+         正在生成代码...
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\administrator.win7u-20140508c\documents\visual studio 2010\Projects\opticalflow\Debug\opticalflow.exe" /INCREMENTAL /NOLOGO opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248.lib opencv_objdetect248.lib opencv_ts248.lib opencv_video248.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\opticalflow.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\administrator.win7u-20140508c\documents\visual studio 2010\Projects\opticalflow\Debug\opticalflow.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\administrator.win7u-20140508c\documents\visual studio 2010\Projects\opticalflow\Debug\opticalflow.lib" /MACHINE:X86 Debug\opticalflow.obj
+         Debug\stdafx.obj
+         opticalflow.vcxproj -> c:\users\administrator.win7u-20140508c\documents\visual studio 2010\Projects\opticalflow\Debug\opticalflow.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"c:\users\administrator.win7u-20140508c\documents\visual studio 2010\Projects\opticalflow\Debug\opticalflow.exe.manifest" /manifest Debug\opticalflow.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\opticalflow.unsuccessfulbuild”。
+         正在对“Debug\opticalflow.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“c:\Users\administrator.win7u-20140508c\documents\visual studio 2010\Projects\opticalflow\opticalflow\opticalflow.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.45
